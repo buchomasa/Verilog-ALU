@@ -1,1 +1,1 @@
-8-bit Arithmetic Logic Unit (ALU) created in verilog. Requires the Icarus Verilog compiler. 
+8-bit Arithmetic Logic Unit (ALU) created in verilog. Requires the Icarus Verilog compiler. Shift left, shift right, and invert testing are performed on two inputs, A and B. However, actual application in the top.v file only inverts opA. 
